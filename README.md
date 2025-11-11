@@ -14,6 +14,8 @@ Sharing my passion for tech and coding with learners has been one of the most re
 
 Right now, I’m diving deeper into advanced data engineering, cloud-based workflows, and ETL pipeline automation. I’m also exploring machine learning concepts and experimenting with building interactive dashboards to turn complex data into insights. Every new project is an opportunity to learn, grow, and push the boundaries of what I can create with technology.
 
+## My Projects
+
 
 ## Checkout my Github Stats!
 [![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=chonky-turtle)](https://github.com/anuraghazra/github-readme-stats)
