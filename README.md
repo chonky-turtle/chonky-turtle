@@ -1,8 +1,5 @@
 ## Hi there! My name is Jessica Snead!
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/jessicasnead/)  
-[![Portfolio](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg)](https://jessicasnead.dev)
-
 Welcome to my GitHub profile! I’m a Technical Instuctor of Data Engineering, Amazon Web Services, and Data Analytics. I am a bit tech enthusiast, I love exploring data, building projects, and sharing knowledge with others. 
 
 ---
